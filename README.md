@@ -14,10 +14,6 @@
 - Type definitions for Node.js and Jest
 - [Prettier][prettier] to enforce consistent code style
 - NPM [scripts](#available-scripts) for common operations
-- Simple example of TypeScript code and unit test
-- .editorconfig for consistent file format
-- Reproducible environments thanks to [Volta][volta]
-- Example configuration for [GitHub Actions][gh-actions] and [Travis CI][travis]
 
 🤲 Free as in speech: available under the APLv2 license.
 
